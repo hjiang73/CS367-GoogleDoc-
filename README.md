@@ -1,1 +1,2 @@
 # CS367-GoogleDoc-
+This program is the third assignment of CS367 at UW-Madison. It uses both stack and queue to build a mini google doc, and stack and queue are presented by List. Server.java is the main class of the program. The skeleton and sample files are provided by James Skentny and the program is implemented by Han Jiang and You Wu.
